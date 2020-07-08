@@ -1,0 +1,36 @@
+body {
+    font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+      'Arial', sans-serif;
+    padding: 20px 20px 60px;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  
+ 
+  .atomo{
+    display: flex;
+    margin: 10px;
+    box-sizing: border-box; 
+    box-shadow: 1px 1px 1px rgba(31, 27, 241, 0.59),-2px -2px 2px rgba(31, 27, 241, 0.59);
+    margin: 20px;; 
+  }
+
+  .molecula{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    box-sizing: border-box; 
+    box-shadow: 1px 1px 2px rgba(237, 253, 12, 0.59),-2px -2px 5px rgba(237, 253, 12, 0.59);
+    margin: 20px;; 
+  }
+
+  
+  .organismo{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    box-sizing: border-box; 
+    box-shadow: 1px 1px 2px rgba(253, 12, 12, 0.705),-2px -2px 5px rgba(253, 12, 12, 0.705);
+    margin: 20px;; 
+  }
+
