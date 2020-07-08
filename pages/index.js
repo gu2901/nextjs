@@ -18,8 +18,8 @@ const Home = () => (
 
       <div className="grid">
         <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <h3>Henrique Pessoa &rarr;</h3>
+          <p>O seu amigo Boiola.</p>
         </a>
 
         <a href="https://nextjs.org/learn" className="card">
